@@ -16,6 +16,7 @@ body {
 
 .titulo > h1 {
     font-weight: 800;
+    margin: 1rem;
 }
 
 .titulo > i {
@@ -67,7 +68,7 @@ body {
     height: 18.3em;
     width: 10rem;
     border: 5px solid #000;
-    border-radius: 0.5rem;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .dia {
@@ -77,6 +78,7 @@ body {
     padding: 1rem 0;
     font-weight: 800;
     font-size: xx-large;
+    border-radius: 11px 11px 0px 0px;
 }
 
 .icono {
